@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Windows\\Desktop\\Cande\\RepositoryWebApi\\WebApiProyecto2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E94CECA7-4E33-4CA3-820C-5CDD602425F3}|WebApiProyecto2.csproj|e:\\windows\\desktop\\cande\\repositorywebapi\\webapiproyecto2\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94CECA7-4E33-4CA3-820C-5CDD602425F3}|WebApiProyecto2.csproj|solutionrelative:controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94CECA7-4E33-4CA3-820C-5CDD602425F3}|WebApiProyecto2.csproj|e:\\windows\\desktop\\cande\\repositorywebapi\\webapiproyecto2\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94CECA7-4E33-4CA3-820C-5CDD602425F3}|WebApiProyecto2.csproj|solutionrelative:models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94CECA7-4E33-4CA3-820C-5CDD602425F3}|WebApiProyecto2.csproj|e:\\windows\\desktop\\cande\\repositorywebapi\\webapiproyecto2\\interfaces\\iarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94CECA7-4E33-4CA3-820C-5CDD602425F3}|WebApiProyecto2.csproj|solutionrelative:interfaces\\iarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IArticulo.cs",
+              "DocumentMoniker": "E:\\Windows\\Desktop\\Cande\\RepositoryWebApi\\WebApiProyecto2\\Interfaces\\IArticulo.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IArticulo.cs",
+              "ToolTip": "E:\\Windows\\Desktop\\Cande\\RepositoryWebApi\\WebApiProyecto2\\Interfaces\\IArticulo.cs",
+              "RelativeToolTip": "Interfaces\\IArticulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:03:05.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "E:\\Windows\\Desktop\\Cande\\RepositoryWebApi\\WebApiProyecto2\\Models\\Articulo.cs",
+              "RelativeDocumentMoniker": "Models\\Articulo.cs",
+              "ToolTip": "E:\\Windows\\Desktop\\Cande\\RepositoryWebApi\\WebApiProyecto2\\Models\\Articulo.cs",
+              "RelativeToolTip": "Models\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:58:33.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "E:\\Windows\\Desktop\\Cande\\RepositoryWebApi\\WebApiProyecto2\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArticulosController.cs",
+              "ToolTip": "E:\\Windows\\Desktop\\Cande\\RepositoryWebApi\\WebApiProyecto2\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "Controllers\\ArticulosController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:57:26.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
